@@ -38,6 +38,7 @@ For our Web application development project, we chose to create a Food ordering 
 
 #### Our logo 
 ![food1](https://user-images.githubusercontent.com/97139623/170884362-5ac6c757-c408-42f9-954c-69c0483f415d.png)
+![food1](Uploading Backgr1.jpg)
 
  #### What is Foodly ? 
 
