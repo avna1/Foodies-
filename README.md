@@ -16,24 +16,26 @@ Group 7
  "FOODLY" FOOD ORDERING WEBSITE 
 
 
-Name- Matric No:
+#### Name- Matric No:
 1. Ridia Kashmeri-1913126
 2. Bintaleb Afnan basem 1826014
 3. Rowda Hassan Sayid Ahmed 1817162
 4. Afiq Aiman bin Othman 1917429
 
-LECTURER:
+#### LECTURER:
+
 Dr.MOHD KHAIRUL AZMI BIN HASSAN 
 
 Due :
 31 May 2022
+---
 
 ### INTRODUCTION
 
 
 For our Web application development project, we chose to create a Food ordering website. The website is called Foodly. To relate with Sustainable Goal Development, Goal 4 Zero Hunger we have decided to design the website to encourage students and staff to participate in creating sustainable food cultures in  IIUM  environments. 
 
- What is Foodly ? 
+ #### What is Foodly ? 
 
  Foodly is a website that is intended to provide information about food orders around mahallah. We have created a very colorful logo for our website that depicts food taste. This website has a very simple main theme color, with white as the background and dark black as the navigation bar. We wanted to make the website easy to look at and won’t confuse users with many colors. 
 
