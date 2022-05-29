@@ -19,7 +19,7 @@ Name- Matric No:
 5. 
 ### INTRODUCTION
 ![foodies](project-image-url)
-<img src="food.png" alt="Alt text" title="Optional title">
+![My Image](C:/xampp/htdocs/fos/fos/food.png)
 
 
 
