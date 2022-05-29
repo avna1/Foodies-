@@ -21,6 +21,7 @@ Group 7
 2. Bintaleb Afnan basem 1826014
 3. Rowda Hassan Sayid Ahmed 1817162
 4. Afiq Aiman bin Othman 1917429
+5. Amir Syafiq Bin Basiron 1914883
 
 #### LECTURER:
 
