@@ -4,9 +4,10 @@
 
 INFO 3305 Web Application Development
 
-SEM 2, 2021/2022 
-SECTION 02
-Group 7
+- SEM 2, 2021/2022 
+- SECTION 02
+- Group 7
+- Prposal
 
 #### Title:
  "FOODLY" FOOD ORDERING WEBSITE 
