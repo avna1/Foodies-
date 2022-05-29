@@ -34,8 +34,10 @@ Due :
 ### INTRODUCTION
 
 
-For our Web application development project, we chose to create a Food ordering website. The website is called Foodly. To relate with Sustainable Goal Development, Goal 4 Zero Hunger we have decided to design the website to encourage students and staff to participate in creating sustainable food cultures in  IIUM  environments. 
-![](ima![food1](https://user-images.githubusercontent.com/97139623/170884362-5ac6c757-c408-42f9-954c-69c0483f415d.png)
+For our Web application development project, we chose to create a Food ordering website. The website is called Foodly. To relate with Sustainable Goal Development, Goal 4 Zero Hunger we have decided to design the website to encourage students and staff to participate in creating sustainable food cultures in  IIUM  environments.
+
+#### Our logo 
+![food1](https://user-images.githubusercontent.com/97139623/170884362-5ac6c757-c408-42f9-954c-69c0483f415d.png)
 
  #### What is Foodly ? 
 
