@@ -1,6 +1,12 @@
 # Foodies-
 
 ![Project Image](project-image-url)
+INFO 3305 Web Application Development
+SEM 2, 2021/2022 
+SECTION 02
+
+Group 7
+## INTRODUCTION
 
 Name- Matric No:
 1. Ridia Kashmeri-1913126
