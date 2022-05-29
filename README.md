@@ -28,6 +28,7 @@ Dr.MOHD KHAIRUL AZMI BIN HASSAN
 
 Due :
 31 May 2022
+
 ---
 
 ### INTRODUCTION
@@ -65,6 +66,7 @@ The page where the product/menu is listed and can be managed by the admin.
 - System Settings
 
 The page where an admin configures the website data.
+
 #### Client-Side
 - Home Page
 
@@ -79,20 +81,18 @@ The page where the about the content of the Cafe or Restaurant is being displaye
 
 The page where the client will place his/her order.
 
-## How To Use
+## HOW TO USE
+#### views
+#### controllers
+#### routes 
+#### models
 
-#### Installation
+## ERD
 
+## SEQUENCE DIAGRAM 
 
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
 
 ---
 
-## References
+## REFERENCE 
 
