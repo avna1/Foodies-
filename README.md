@@ -1,4 +1,4 @@
-# Foodies-
+# Foodly-
 
 ![image](https://user-images.githubusercontent.com/97139623/170854403-7cee3791-562d-4111-b070-bcb2a0e25797.png)
 
