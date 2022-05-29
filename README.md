@@ -2,9 +2,9 @@
 
 ![Project Image](project-image-url)
 
-Name- Matric No
-1.Ridia Kashmeri-1913126
-2.Bintaleb Afnan basem 1826014
+Name- Matric No:
+1. Ridia Kashmeri-1913126
+2. Bintaleb Afnan basem 1826014
 3. Rowda Hassan Sayid Ahmed 1817162
 4. Afiq Aiman bin Othman 1917429
 5. 
