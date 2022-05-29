@@ -1,6 +1,7 @@
 # Foodies-
 
-![Project Image](project-image-url)
+![image](https://user-images.githubusercontent.com/97139623/170854403-7cee3791-562d-4111-b070-bcb2a0e25797.png)
+
 - INFO 3305 Web Application Development
 
 SEM 2, 2021/2022 
