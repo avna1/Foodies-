@@ -14,8 +14,6 @@ Group 7
 
 #### Title:
  "FOODLY" FOOD ORDERING WEBSITE 
-
-
 #### Name- Matric No:
 1. Ridia Kashmeri-1913126
 2. Bintaleb Afnan basem 1826014
@@ -31,9 +29,7 @@ Due :
 31 May 2022
 
 ---
-
 ### INTRODUCTION
-
 
 For our Web application development project, we chose to create a Food ordering website. The website is called Foodly. To relate with Sustainable Goal Development, Goal 4 Zero Hunger we have decided to design the website to encourage students and staff to participate in creating sustainable food cultures in  IIUM  environments.
 
