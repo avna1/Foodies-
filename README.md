@@ -74,7 +74,7 @@ The page where the product/menu is listed and can be managed by the admin.
 
 The page where an admin configures the website data.
 
-#### Client-Side
+#### User-Side
 - Home Page
 
 The Page where the client will be redirected by default and can choose his/her desired menus.
@@ -90,9 +90,19 @@ The page where the client will place his/her order.
 
 ## HOW TO USE
 #### views
+admin side:
+Login - admin class - categories - checkout - home -index - menue - site setting- orders - user 
+user side 
+Login - sign up - checkout - home -index - cart list - orders - view product - about
+
 #### controllers
+
 #### routes 
+
 #### models
+Database connecting 
+<?php 
+$conn= new mysqli('localhost','root','','fos_db')or die("Could not connect to mysql".mysqli_error($con));
 
 ## ERD
 
