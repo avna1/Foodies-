@@ -10,7 +10,7 @@ INFO 3305 Web Application Development
  
 Group 7
 
-#### Prposal
+#### Proposal
 
 #### Title:
  "FOODLY" FOOD ORDERING WEBSITE 
