@@ -42,13 +42,12 @@ For our Web application development project, we chose to create a Food ordering 
 
  #### What is Foodly ? 
 
- Foodly is a website that is intended to provide information about food orders around mahallah. We have created a very colorful logo for our website that depicts food taste. This website has a very simple main theme color, with white as the background and dark black as the navigation bar. We wanted to make the website easy to look at and won’t confuse users with many colors. 
+ Foodly is a website that is intended to provide information about food orders and prices for cafes. We have created a very colorful logo for our website that depicts food taste. This website has a very simple main theme color, with white as the background and dark black as the navigation bar. We wanted to make the website easy to look at and won’t confuse users with many colors. 
 
- This website has 4 main pages, it consists of Homepage, Cart, About Us,  and Admin page. The Homepage is where the user will first enter if they go foodly. In the header of the homepage, we provide a button to direct users to an order page 
-where it explains why our website is good.  
+ This website has 4 main pages, it consists of Homepage, Cart, About Us,  and login page. The Homepage is where the user will first enter if they go foodly. In the header of the homepage, we provide a button to direct users to an order page.  
 
- On the cart page, users can see the total amount of the order and the payment method. About us is the page containing all information regarding the website. It will provide an explanation of the Foodly vision and mission and information about the organization itself. It will provide users with contact lists and our organization's location
-
+ On the cart page, users can see the total amount of the order and the payment method. About us is the page containing all information regarding the website. It will provide an explanation of the Foodly vision and mission and information about the organization itself. It will provide users with contact lists.
+ 
 ---
 
 ## OBJECTIVE
@@ -94,6 +93,7 @@ The page where the client will place his/her order.
 ## ERD
 
 ## SEQUENCE DIAGRAM 
+![se1](https://user-images.githubusercontent.com/97139623/170923626-43a3e719-b42f-46c9-9ce5-24ff5b19636a.png)
 
 
 ---
