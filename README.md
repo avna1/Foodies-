@@ -52,7 +52,11 @@ For our Web application development project, we chose to create a Food ordering 
 
 ## OBJECTIVE
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+   - To develop a system that will surely provide serving quality and affordable foods to satisfy the customer service.
+
+   - To design a system able to accommodate enough amount of orders at a time.
+
+   - To improve the communication between the client and the system and minimize the time of ordering.
 
 ##  FEATURES AND FUNCTIONALITIES 
 
