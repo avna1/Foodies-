@@ -57,33 +57,16 @@ For our Web application development project, we chose to create a Food ordering 
 ##  FEATURES AND FUNCTIONALITIES 
 
 #### Admin Side
-- Login Page
-
-The page where the admin will input his or her credential to access the admin side of the system.
-- Category Page
-
-The page where all product/menu categories are listed and being managed by admin.
-- Menu Page
-
-The page where the product/menu is listed and can be managed by the admin.
-- System Settings
-
-The page where an admin configures the website data.
+- Login Page : The page where the admin will input his or her credential to access the admin side of the system.
+- Category Page : The page where all product/menu categories are listed and being managed by admin.
+- Menu Page : The page where the product/menu is listed and can be managed by the admin.
+- System Settings : The page where an admin configures the website data.
 
 #### User-Side
-- Home Page
-
-The Page where the client will be redirected by default and can choose his/her desired menus.
-- Cart Page
-
-The page where the list of menu’s/product that being saved cart is listed.
-- About Us Page
-
-The page where the about the content of the Cafe or Restaurant is being displayed.
-- Checkout Page
-
-The page where the client will place his/her order.
-
+- Home Page : The Page where the client will be redirected by default and can choose his/her desired menus.
+- Cart Page : The page where the list of menu’s/product that being saved cart is listed.
+- About Us Page : The page where the about the content of the Cafe or Restaurant is being displayed.
+- Checkout Page : The page where the client will place his/her order.
 ## HOW TO USE
 #### views
 admin side:
