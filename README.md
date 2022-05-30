@@ -95,24 +95,15 @@ Login - admin class - categories - checkout - home -index - menue - site setting
 
 user side 
 Login - sign up - checkout - home -index - cart list - orders - view product - about
-
 #### controllers
-
 #### routes 
-
 #### models
 Database connecting 
 <?php 
 $conn= new mysqli('localhost','root','','fos_db')or die("Could not connect to mysql".mysqli_error($con));
-
 ## ERD
-
 ## SEQUENCE DIAGRAM 
 ![se1](https://user-images.githubusercontent.com/97139623/170923626-43a3e719-b42f-46c9-9ce5-24ff5b19636a.png)
 ![se22](https://user-images.githubusercontent.com/97139623/171014068-1f0f6af3-9c21-4884-9821-a8f8ec6cf8d5.png)
-
-
 ---
-
 ## REFERENCE 
-
