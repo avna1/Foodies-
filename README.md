@@ -92,6 +92,7 @@ The page where the client will place his/her order.
 #### views
 admin side:
 Login - admin class - categories - checkout - home -index - menue - site setting- orders - user 
+
 user side 
 Login - sign up - checkout - home -index - cart list - orders - view product - about
 
