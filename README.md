@@ -75,7 +75,9 @@ Login - admin class - categories - checkout - home -index - menue - site setting
 user side 
 Login - sign up - checkout - home -index - cart list - orders - view product - about
 #### controllers
+Admin class - login(admin side) - index
 #### routes 
+index - login(admin side) - dmin class - site sitting
 #### models
 Database connecting 
 ## ERD
