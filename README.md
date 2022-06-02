@@ -31,7 +31,7 @@ Due :
 ---
 ### INTRODUCTION
 
-For our Web application development project, we chose to create a Food ordering website. The website is called Foodly. To relate with Sustainable Goal Development, Goal 4 Zero Hunger we have decided to design the website to encourage students and staff to participate in creating sustainable food cultures in  IIUM  environments.
+For our Web application development project, we chose to create a Food ordering website. The website is called Foodly.
 
 #### Our logo 
 ![food1](https://user-images.githubusercontent.com/97139623/170884362-5ac6c757-c408-42f9-954c-69c0483f415d.png)
@@ -40,9 +40,9 @@ For our Web application development project, we chose to create a Food ordering 
 
  Foodly is a website that is intended to provide information about food orders and prices for cafes. We have created a very colorful logo for our website that depicts food taste. This website has a very simple main theme color, with white as the background and dark black as the navigation bar. We wanted to make the website easy to look at and won’t confuse users with many colors. 
 
- This website has 4 main pages, it consists of Homepage, Cart, About Us,  and login page. The Homepage is where the user will first enter if they go foodly. In the header of the homepage, we provide a button to direct users to an order page.  
+ This website has 4 main pages, it consists of Homepage, Cart, About Us, and recipe . The Homepage is where the user will first enter if they go foodly. In the header of the homepage, we provide a button to direct users to the menue.  
 
- On the cart page, users can see the total amount of the order and the payment method. About us is the page containing all information regarding the website. It will provide an explanation of the Foodly vision and mission and information about the organization itself. It will provide users with contact lists.
+ On the cart page, users can see the total amount of the order and the payment method. About us is the page containing all information regarding the website. It will provide an explanation of the Foodly vision and mission and information about the organization itself. The recipe page it provide simple recipe that user can make it 
  
 ---
 
@@ -52,7 +52,7 @@ For our Web application development project, we chose to create a Food ordering 
 
    - To design a system able to accommodate enough amount of orders at a time.
 
-   - To improve the communication between the client and the system and minimize the time of ordering.
+   - To improve the communication between the user and the system and minimize the time of ordering.
 
 ##  FEATURES AND FUNCTIONALITIES 
 
@@ -63,17 +63,18 @@ For our Web application development project, we chose to create a Food ordering 
 - System Settings : The page where an admin configures the website data.
 
 #### User-Side
-- Home Page : The Page where the client will be redirected by default and can choose his/her desired menus.
+- Home Page : The Page where the user will be redirected by default and can choose his/her desired menus.
 - Cart Page : The page where the list of menu’s/product that being saved cart is listed.
 - About Us Page : The page where the about the content of the Cafe or Restaurant is being displayed.
-- Checkout Page : The page where the client will place his/her order.
+- Checkout Page : The page where the user will place his/her order.
+- Recipe Page : The page where the user see the recipe.
 ## HOW TO USE
 #### views
 admin side:
 Login - admin class - categories - checkout - home -index - menue - site setting- orders - user 
 
 user side 
-Login - sign up - checkout - home -index - cart list - orders - view product - about
+Login - sign up - checkout - home -index - cart list - orders - view product - about- recipe Page
 #### controllers
 Admin class - login(admin side) - index
 #### routes 
