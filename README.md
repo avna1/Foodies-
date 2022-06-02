@@ -89,6 +89,8 @@ index - login(admin side) - dmin class - site sitting
 #### models
 Database connecting 
 ## ERD
+![WhatsApp Image 2022-06-02 at 4 17 52 PM](https://user-images.githubusercontent.com/97139623/171665086-d4265c47-2a32-49dc-a143-f8f5e9d5104a.jpeg)
+
 ## SEQUENCE DIAGRAM 
 ![se1](https://user-images.githubusercontent.com/97139623/170923626-43a3e719-b42f-46c9-9ce5-24ff5b19636a.png)
 ![se33](https://user-images.githubusercontent.com/97139623/171559803-53a6a71a-5a97-48c7-9d1b-d7b0910e20ac.png)
