@@ -38,11 +38,11 @@ For our Web application development project, we chose to create a Food ordering 
 
  #### What is Foodly ? 
 
- Foodly is a website that is intended to provide information about food orders and prices for cafes. We have created a very colorful logo for our website that depicts food taste. This website has a very simple main theme color, with white as the background and dark black as the navigation bar. We wanted to make the website easy to look at and won’t confuse users with many colors. 
+  Foodly is a website that is intended to provide information about food orders and prices and recipes. We have created a very colorful logo for our website that depicts food taste. This website has a very simple main theme color, with white as the background and dark black as the navigation bar. We wanted to make the website easy to look at and won’t confuse users with many colors. 
 
- This website has 4 main pages, it consists of Homepage, Cart, About Us, and recipe . The Homepage is where the user will first enter if they go foodly. In the header of the homepage, we provide a button to direct users to the menue.  
+ This website has 4 main pages, it consists of Homepage, Cart, About Us, and Recipes. The Homepage is where the user will first enter if they go foodly. In the header of the homepage, we provide a button to direct users to the menu.  
 
- On the cart page, users can see the total amount of the order and the payment method. About us is the page containing all information regarding the website. It will provide an explanation of the Foodly vision and mission and information about the organization itself. The recipe page it provide simple recipe that user can make it 
+ On the cart page, users can see the total amount of the order and the payment method. About us is the page containing all information regarding the website. It will provide an explanation of the Foodly vision and mission and information about the organization itself. The recipes page it provide a simple recipe that user can make it 
  
 ---
 
@@ -52,7 +52,7 @@ For our Web application development project, we chose to create a Food ordering 
 
    - To design a system able to accommodate enough amount of orders at a time.
 
-   - To improve the communication between the user and the system and minimize the time of ordering.
+   - To develop a system that will surely provide informative recipes that users can make  
 
 ##  FEATURES AND FUNCTIONALITIES 
 
