@@ -54,7 +54,10 @@ For our Web application development project, we chose to create a Food ordering 
 
    - To design a system able to accommodate enough amount of orders at a time.
 
-   - To develop a system that will surely provide informative recipes that users can make  
+   - To develop a system that will surely provide informative recipes that users can make.
+   - To develop a system to communicate with customers easily and conveniently.
+   - To design a system that will present photo and video galleries of the restaurant and its services to attract more customers.
+   
 
 ##  FEATURES AND FUNCTIONALITIES 
 
