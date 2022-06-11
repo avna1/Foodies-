@@ -69,7 +69,7 @@ For our Web application development project, we chose to create a Food ordering 
 - Menu Page : The page where the product/menu is listed and can be managed by the admin.
 
 #### User-Side
-  Login Page : The page where the user will input his or her information to proceed orders. 
+- Login Page : The page where the user will input his or her information to proceed orders. 
 - Home Page : The Page where the user will be redirected by default and can choose his/her desired menus.
 - Cart Page : The page where the list of menu’s/product that being saved cart is listed.
 - About Us Page : The page where the about the content of the Cafe or Restaurant is being displayed.
