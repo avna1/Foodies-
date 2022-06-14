@@ -12,7 +12,7 @@ INFO 3305 WEB APPICATION DEVELOPMENT
  
 Group 7
 
-#### Proposal
+#### Final peoject
 
 #### Title:
  "FOODLY" FOOD ORDERING WEBSITE 
@@ -28,7 +28,7 @@ Group 7
 Dr.MOHD KHAIRUL AZMI BIN HASSAN 
 
 Due :
-31 May 2022
+15 May 2022
 
 ---
 ### INTRODUCTION
@@ -67,6 +67,7 @@ For our Web application development project, we chose to create a Food ordering 
 - Login Page : The page where the admin will input his or her credential to access the admin side of the system.
 - Category Page : The page where all product/menu categories are listed and being managed by admin.
 - Menu Page : The page where the product/menu is listed and can be managed by the admin.
+- User pgae : The page where admin can coustmer details.
 
 #### User-Side
 - Login Page : The page where the user will input his or her information to proceed orders. 
