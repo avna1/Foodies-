@@ -70,6 +70,7 @@ For our Web application development project, we chose to create a Food ordering 
 - User pgae : The page where admin can add others admin to control.
 
  link : http://localhost/foodly/admin
+ 
  username: admin
  
  password: admin123
