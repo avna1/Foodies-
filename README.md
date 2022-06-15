@@ -67,8 +67,10 @@ For our Web application development project, we chose to create a Food ordering 
 - Login Page : The page where the admin will input his or her credential to access the admin side of the system.
 - Category Page : The page where all product/menu categories are listed and being managed by admin.
 - Menu Page : The page where the product/menu is listed and can be managed by the admin.
-- User pgae : The page where admin can coustmer details.
-
+- User pgae : The page where admin can add others admin to control.
+ link : http://localhost/foodly/admin
+ usernamr: admin
+ password: admin123
 #### User-Side
 - Login Page : The page where the user will input his or her information to proceed orders. 
 - Home Page : The Page where the user will be redirected by default and can choose his/her desired menus.
@@ -76,6 +78,7 @@ For our Web application development project, we chose to create a Food ordering 
 - About Us Page : The page where the about the content of the Cafe or Restaurant is being displayed.
 - Checkout Page : The page where the user will place his/her order.
 - Recipe Page : The page where the user see the recipe.
+link:http://localhost/foodly
 ## HOW TO USE
 #### views
 admin side:
@@ -88,7 +91,7 @@ Admin class - login(admin side) - index
 #### routes 
 index - login(admin side) - dmin class - site sitting
 #### models
-Database connecting 
+Database connecting (fos_db)
 ## ERD
 ![WhatsApp Image 2022-06-02 at 4 17 52 PM](https://user-images.githubusercontent.com/97139623/171665086-d4265c47-2a32-49dc-a143-f8f5e9d5104a.jpeg)
 
