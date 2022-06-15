@@ -82,7 +82,7 @@ link:http://localhost/foodly
 ## HOW TO USE
 #### views
 admin side:
-Login - admin class - categories - checkout - home -index - menue - site setting- orders - user 
+Login - admin class - categories - checkout - home -index - menue - orders - user 
 
 user side 
 Login - sign up - checkout - home -index - cart list - orders - view product - about- recipe Page
