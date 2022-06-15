@@ -68,8 +68,10 @@ For our Web application development project, we chose to create a Food ordering 
 - Category Page : The page where all product/menu categories are listed and being managed by admin.
 - Menu Page : The page where the product/menu is listed and can be managed by the admin.
 - User pgae : The page where admin can add others admin to control.
+
  link : http://localhost/foodly/admin
- usernamr: admin
+ username: admin
+ 
  password: admin123
 #### User-Side
 - Login Page : The page where the user will input his or her information to proceed orders. 
@@ -78,6 +80,7 @@ For our Web application development project, we chose to create a Food ordering 
 - About Us Page : The page where the about the content of the Cafe or Restaurant is being displayed.
 - Checkout Page : The page where the user will place his/her order.
 - Recipe Page : The page where the user see the recipe.
+
 link:http://localhost/foodly
 ## HOW TO USE
 #### views
