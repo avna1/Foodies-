@@ -67,7 +67,7 @@ For our Web application development project, we chose to create a Food ordering 
 - Login Page : The page where the admin will input his or her credential to access the admin side of the system.
 - Category Page : The page where all product/menu categories are listed and being managed by admin.
 - Menu Page : The page where the product/menu is listed and can be managed by the admin.
-- User pgae : The page where admin can add others admin to control.
+- User page : The page where admin can add others admin to control.
 
  link : http://localhost/foodly/admin
  
